@@ -1,5 +1,3 @@
-# AQI-AI-training-Project
-
 # 🌍 Air Quality Index (AQI) Prediction using Machine Learning
 
 ## 📌 Project Overview
@@ -139,4 +137,4 @@ http://localhost:8501
 Your's Truly
 TEAM LOW ELO  
 B.Tech – AI & Data Science  
-Machine Learning Enthusiast
+Machine Learning Enthusiast'S
